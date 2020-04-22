@@ -17,6 +17,11 @@ Search for events or food in one place with the help of the Fest & Feast APP. No
 - GitHub Pages
 - Firebase Database
 
+### Team
+* Marcos Luna
+* James Goff
+* Nagma Bardoi
+
 ### Presentation Link
 https://docs.google.com/presentation/d/1UpgJIZF3yHdeUWJrkWYkZt_aQC1o8xQQsxCMP_SGwng/edit?usp=sharing
 
