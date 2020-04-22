@@ -17,7 +17,7 @@ Search for events or food in one place with the help of the Fest & Feast APP. No
 - GitHub Pages
 - Firebase Database
 
-![](C:\Users\ml042\Desktop\MyPortfolio\images/Capture.PNG)
+![]("images\Capture.PNG")
 
 ### Team
 * Marcos Luna
